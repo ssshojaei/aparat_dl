@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const cheerio = require('cheerio')
 const axios = require('axios')
 const prompts = require('prompts')
