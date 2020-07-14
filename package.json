@@ -1,6 +1,6 @@
 {
-	"name": "aparat-dl",
-	"version": "0.2.0",
+	"name": "aparat_dl",
+	"version": "2.0.1",
 	"description": "Downloader tool for aparat",
 	"main": "index.js",
 	"scripts": {

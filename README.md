@@ -17,7 +17,7 @@ Download single video or playlists from Aparat
 
 ```
 sudo apt install node npm
-npm install --global aparat-dl
+npm install --global aparat_dl
 ```
 
 **Use**
